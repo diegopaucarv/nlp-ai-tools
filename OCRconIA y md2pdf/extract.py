@@ -216,7 +216,7 @@ def main(
 ) -> None:
     api_key = os.environ.get("TOGETHER_API_KEY")
     if not api_key:
-        api_key = "tgp_v1_CKLcJWHK4aCThBa5kIx9SX9tcTWDEyRALNyAjQhdoa0"
+        api_key = ""
 
     client = Together(api_key=api_key)
 
