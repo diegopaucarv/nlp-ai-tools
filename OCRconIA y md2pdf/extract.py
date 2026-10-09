@@ -4,7 +4,7 @@ con structured output para producir Markdown acumulativo.
 
 Optimizaciones específicas para zai-org/GLM-5.3-Flash:
   - temperature=1.0 y top_p=0.95 (valores recomendados por Z.AI).
-  - reasoning_effort="max" para máxima calidad de transcripción.
+  - reasoning_effort="max" para máxima calidad de transcripción. 
   - max_tokens=131072 (límite real del modelo, no 8192).
   - Imágenes JPEG a DPI moderado para respetar el límite de 10 MB por imagen.
   - Manejo explícito del campo reasoning_content (thinking siempre activo).
