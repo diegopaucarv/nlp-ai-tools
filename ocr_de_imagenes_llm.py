@@ -8,7 +8,7 @@ from pydantic import BaseModel, Field
 from together import Together
 
 client = Together(
-    api_key="tgp_v1__mSZyaseeGD0mWw4-k8WL_QbHV3a562AgtZ_0-dArWQ", timeout=300
+    api_key="', timeout=300
 )
 
 
