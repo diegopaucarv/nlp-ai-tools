@@ -1,2 +1,2 @@
 # nlp-ai-tools
-Notebooks with tools I've made along the way
+Notebooks with tools I made along the way
